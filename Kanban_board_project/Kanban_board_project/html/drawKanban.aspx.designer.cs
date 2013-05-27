@@ -10,7 +10,7 @@
 namespace Kanban_board_project.html {
     
     
-    public partial class Dashboard {
+    public partial class drawKanban {
         
         /// <summary>
         /// Control form1.
@@ -40,30 +40,30 @@ namespace Kanban_board_project.html {
         protected global::AjaxControlToolkit.ToolkitScriptManager ToolkitScriptManager1;
         
         /// <summary>
-        /// Control Button1.
+        /// Control Button2.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::Ext.Net.Button Button1;
+        protected global::System.Web.UI.WebControls.Button Button2;
         
         /// <summary>
-        /// Control GridView1.
+        /// Control Panel1.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView GridView1;
+        protected global::Ext.Net.Panel Panel1;
         
         /// <summary>
-        /// Control SqlDataSource1.
+        /// Control BoxReorderer1.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.SqlDataSource SqlDataSource1;
+        protected global::Ext.Net.BoxReorderer BoxReorderer1;
     }
 }
